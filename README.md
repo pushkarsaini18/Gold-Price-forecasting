@@ -12,6 +12,8 @@ The goal of this project was to predict future gold price based on previous gold
 
 3.Linear Regression Model
 
+4.Model Deployment (Streamlit)
+
 ## Naive methods:
 This method is like the naive method but predicts the last observed value of the same season of the year. This method works for highly seasonal data.
 Before diving into sophisticated algorithms it is necessary to plot the time series data to gain intuition and even make direct predictions
@@ -82,5 +84,6 @@ It is one of the most commonly used predictive modelling techniques.It is repres
 
 #### Step 3: Model Evaluation and Predictions
 
+## Model Deployment(Streamlit)
 
 
