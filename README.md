@@ -85,5 +85,5 @@ It is one of the most commonly used predictive modelling techniques.It is repres
 #### Step 3: Model Evaluation and Predictions
 
 ## Model Deployment(Streamlit)
-
+![Untitled](https://user-images.githubusercontent.com/82845139/148784613-923a4e30-4752-4367-a3ac-9f3c51298e05.png)
 
